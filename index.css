@@ -498,6 +498,12 @@ section.hide {
         grid-template-columns: 1fr;
     }
 
+    .background-Image {
+        content: url("../images/bg-main-mobile.png");
+        height: 30%;
+        width: 100%;
+    }
+
     .right-section {
         padding-left: 2vh;
     }
