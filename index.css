@@ -431,7 +431,7 @@ section.hide {
     }
 
     .background-Image {
-        content: url("/images/bg-main-mobile.png");
+        content: url("../images/bg-main-mobile.png");
         height: 30%;
         width: 100%;
     }
